@@ -1,6 +1,6 @@
 {
-  "name": "service-example",
-  "vendor": "vtex",
+  "name": "masterdata-example",
+  "vendor": "fedeira",
   "version": "0.2.22",
   "title": "Service Example",
   "description": "Reference app for VTEX IO Services",
