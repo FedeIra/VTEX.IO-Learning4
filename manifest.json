@@ -1,6 +1,6 @@
 {
-  "name": "masterdata-example",
-  "vendor": "fedeira",
+  "name": "service-example",
+  "vendor": "itglobers",
   "version": "0.2.22",
   "title": "Service Example",
   "description": "Reference app for VTEX IO Services",
@@ -19,8 +19,8 @@
     {
       "name": "outbound-access",
       "attrs": {
-        "host": "httpstat.us",
-        "path": "*"
+        "host": "api.vtex.com",
+        "path": "/api/dataentities/*"
       }
     },
     {
